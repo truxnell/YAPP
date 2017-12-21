@@ -14,7 +14,7 @@ int DP_RIGHT = 17;    //C7
 // ABXY
 int BTN_A = 10;       //C0
 int BTN_B = 11;       //C1
-int BTN_X = 12;       //C2
+int BTN_X = 12;       //C2f
 int BTN_Y = 13;       //C3
 
 
